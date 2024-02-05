@@ -11,7 +11,7 @@ A ∩ B = {x}
 ### Notation:
 A = _B
 - The Result is the Elements of B are are a compliment of A
-_Note: __ is meant to represent an Upperline, or a Line over. as UTF-8 (or whatever is used) doesnt support Upperlines too my knowledge_
+- *_Note: __ is meant to represent an Upperline, or a Line over. as UTF-8 (or whatever is used) doesnt support Upperlines too my knowledge_
 ## Diffrence:
 ### Notation:
 A/B = {x}
