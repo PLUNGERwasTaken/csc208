@@ -11,7 +11,14 @@ A ∩ B = {x}
 ### Notation:
 A = _B_ 
 - The Result is the Elements of B are are a compliment of A
+* Note: __ is meant to represent an Upperline, or a Line over. as UTF-8 (or whatever is used) doesnt support Upperlines too my knowledge
 ## Diffrence:
 ### Notation:
 A/B = {x}
 - The result is the Elments of A NOT in B
+
+### Example:
+- If A = {1,2,3,6,7,0} and B = {2,3,4,5,6,8,9,10} then A ∩ B = {2,3,6}
+- Aswell A/B = {1,7,0}
+- And B/A = {4,5,8,9,10}
+- A ∪ B = {0,1,2,3,4,5,6,7,8,9,10}
