@@ -28,4 +28,4 @@ A/B = {x}
 - A ∪ B = {0,1,2,3,4,5,6,7,8,9,10}
 
 ## Index
-<a href="https://github.com/jamesoconnr/cs208/blob/master/notes/chap0/sets/slide1.md">Notation</a> | <a href="https://github.com/dane16/csc208/blob/main/project0.3(28-30).md">Relation Between Sets</a> | \/ | <a href="https://github.com/ledmer/CSC208/blob/main/Presentation_file.md"> Venn Diagram </a>
+<a href="https://github.com/jamesoconnr/cs208/blob/master/notes/chap0/sets/slide1.md">Notation</a> | <a href="https://github.com/dane16/csc208/blob/main/project0.3(28-30).md">Relation Between Sets</a> | \/ | <a href="https://github.com/ledmer/CSC208/blob/main/Presentation_file.md"> Venn Diagram </a> | <a href="https://codeberg.org/Marin_McCormack/csc208/src/branch/master/ch0/SummaryAndExersises.md"> Summary and Examples</a>
