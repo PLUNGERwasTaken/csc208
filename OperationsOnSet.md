@@ -3,19 +3,23 @@
 ### Notation:
 A ∪ B = {x}
 - Result is the set of all elements of both A and B
+- ∪ is a pretty clear representation of the U in Union
 ## Intersection
 ### Notation:
 A ∩ B = {x}
 - Result is the set of all elements both A and B share
+- You can remember Intersection as being the opposite of Union but NOT the contrapostive
 ## Complement:
 ### Notation:
 A = _B
 - The Result is the Elements of B are are a compliment of A
+- Remembering compliment is easy, as its just a line but if you need to think of the set or element being under the roof of the superior element
 - *_Note: __ is meant to represent an Upperline, or a Line over. as UTF-8 (or whatever is used) doesnt support Upperlines too my knowledge_
 ## Diffrence:
 ### Notation:
 A/B = {x}
 - The result is the Elments of A NOT in B
+- Remembering this is also easy as youre literally divinding the two
 
 ### Example:
 - If A = {1,2,3,6,7,0} and B = {2,3,4,5,6,8,9,10} then A ∩ B = {2,3,6}
