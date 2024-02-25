@@ -19,3 +19,10 @@ This will give us a indered par where x is from A and y is from B
 
 this introduces us to cartesian products
 
+cardinality can be proven through the statement:
+
+$$|A \times B| = |A| * |B|$$
+
+Cardinality in sets unioned can be found through:
+
+$$|A \cup B| = |A| + |B| - |A \union B|$$
