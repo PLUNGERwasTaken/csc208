@@ -17,3 +17,5 @@ $$5 * 4 * 3 * 2 * 1 = 5!$$
 $$5 * 4 * 3 ≠ 5!$$
 
 Premutations with interuptions can be read as P(n,k) or P(n-k) or to follow the format of the previous example, P(5,2) or P(5-2)
+
+- *NOTE*: Never simplfy a premutations notation, P(5 - 2) ≠ P(3)
