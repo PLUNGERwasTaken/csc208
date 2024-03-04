@@ -12,5 +12,5 @@ How might this be represetnted mathmatically?
 
 - Premutations can be represented with factorials if there are no interuptions
 
-<p style="text-align: center;">5 * 4 * 3 * 2 * 1 = 5!</p>
-<p style="text-align: center;">5 * 4 * 3 ≠ 5! </p>
+$$5 * 4 * 3 * 2 * 1 = 5!$$
+$$5 * 4 * 3 ≠ 5! $$
