@@ -15,5 +15,5 @@ $$40*40*40$$
 - Using the digits 2 through 8, find the number of different 5-digit
 numbers such that
 - Digits can be used more than once
-
+$$8\up 8 
 
