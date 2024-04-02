@@ -11,9 +11,9 @@
  - mulptiplicative principle applies to more then two events
 
 # Counting with sets
-in a set with no overlapping items: $$ |A| \cup B | = |A| +|B|$$
+in a set with no overlapping items: $$ |A| \cup B | = |A| +|B| $$
 
-The Multiplicitive principle can be rephrased as: $$ A \times B = \{(x,y): x \in A \land y \in B\}$$
+The Multiplicitive principle can be rephrased as: $$ A \times B = \{(x,y): x \in A \land y \in B\} $$
 
 This will give us a indered par where x is from A and y is from B
 
@@ -25,4 +25,4 @@ $$|A \times B| = |A| * |B|$$
 
 Cardinality in sets unioned can be found through:
 
-$$|A \cup B| = |A| + |B| - |A \union B|$$
+$$|A \cup B| = |A| + |B| - |A \cup B|$$
