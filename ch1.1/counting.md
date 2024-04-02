@@ -11,7 +11,7 @@
  - mulptiplicative principle applies to more then two events
 
 # Counting with sets
-in a set with no overlapping items: $$ |A| \cup B | = |A| +|B| $$
+in a set with no overlapping items: $$|A| \cup B | = |A| +|B|$$
 
 The Multiplicitive principle can be rephrased as: $$A \times B = \{(x,y): x \in A \land y \in B\}$$
 
