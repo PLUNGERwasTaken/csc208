@@ -13,4 +13,8 @@ $$(a<sub>n</sub>)<sub>n E: N </sub>$$
 
 <b>Recursive Formulas:</b> A Recursive formula has a recurance relation: an attribute that relates a part of the formula to a previous iteration of the formula. And an Initial Condition: defined orginial formula.
 
+> Closed Formula Example:
+>
+>$$ a_n = \frac{n(n + 1)}{2} $$
+>
 
