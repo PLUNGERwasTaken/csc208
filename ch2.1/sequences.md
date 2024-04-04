@@ -13,12 +13,12 @@ $$(a_n )_n \in \mathbb{N} $$
 
 <b>Recursive Formulas:</b> A Recursive formula has a recurance relation: an attribute that relates a part of the formula to a previous iteration of the formula. And an Initial Condition: defined orginial formula.
 
->Closed Formula Example:
+>**Closed Formula Example:**
 >
 >$$ a_n = \frac{n(n + 1)}{2} $$
 >
 
->Recursive Formula Example:
+>**Recursive Formula Example:**
 >
 >Recurance Relation: 
 >$$a_n = 2a_n-1$$
