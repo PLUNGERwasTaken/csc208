@@ -9,6 +9,7 @@ We can abbreviate these sets using a form like:
 $$(a_n )_n \in \mathbb{N} $$
 
 *These Formulas fit into 2 types:*
+
 **Closed Formulas:** A Closed formula has a finate amout of changes to n, really mean it doesnt really commit changes to n at all.
 
 **Recursive Formulas:** A Recursive formula has a recurance relation: an attribute that relates a part of the formula to a previous iteration of the formula. And an Initial Condition: defined orginial formula.
@@ -24,4 +25,6 @@ $$(a_n )_n \in \mathbb{N} $$
 >$$a_n = 2a_n-1$$
 >Inital:
 >$$a_0 = 1$$
+
+## Partial Sequences
 
