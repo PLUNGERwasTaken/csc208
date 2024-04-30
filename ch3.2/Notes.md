@@ -13,3 +13,4 @@ If A cant flase then it must be true.
 # Proof by Counter Example
 
 # Proof by Cases
+In the simpliset terms its trying to prove P is true by proving that $Q \implies P$ and that $\lnot Q \implies P$
