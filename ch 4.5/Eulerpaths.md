@@ -19,3 +19,6 @@
 - The book doesn't explain this at all but essentially its the the question if you have a moat many brodges how do you use all of the bridges exactly once, this is mant to question euler paths and circuits as whole.
 
 <img title="graph" alt="konsinbergs bridge graph" src="https://github.com/jackTCurtis/csc208/blob/a9fc40fe423dbf4a0db0302abd399473a356eb98/ch%204.5/Screen%20Shot%202024-05-31%20at%208.05.43%20AM.png">
+
+Könisberg is a small city on a artifical pinensula in Germany, the pinensula is connected by 7 bridges and is real world world example of Euler paths.
+The question is how do you use all of the bridges while getting back to your starting island
