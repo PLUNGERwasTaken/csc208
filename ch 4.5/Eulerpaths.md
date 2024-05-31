@@ -14,8 +14,8 @@
 
 ## Königsberg's bridge
 
-<img title="konsinbergs bridge" alt="konsinbergs brige" src="">
+<img title="konsinbergs bridge" alt="konsinbergs brige" src="https://github.com/jackTCurtis/csc208/blob/a9fc40fe423dbf4a0db0302abd399473a356eb98/ch%204.5/Screenshot-204-1024x577.png">
 
 - The book doesn't explain this at all but essentially its the the question if you have a moat many brodges how do you use all of the bridges exactly once, this is mant to question euler paths and circuits as whole.
 
-<img title="graph" alt="konsinbergs bridge graph" src="">
+<img title="graph" alt="konsinbergs bridge graph" src="https://github.com/jackTCurtis/csc208/blob/a9fc40fe423dbf4a0db0302abd399473a356eb98/ch%204.5/Screen%20Shot%202024-05-31%20at%208.05.43%20AM.png">
