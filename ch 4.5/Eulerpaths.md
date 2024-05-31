@@ -4,7 +4,7 @@
 
 - A euler Circuit is a graph that starts and stops at the same vertex
 
-<img title="Euler Circuit" alt="Euler Circuit" src="">
+<img title="Euler Circuit" alt="Euler Circuit" src="https://github.com/jackTCurtis/csc208/blob/4c561cd7d27b3da8ddd08642f68ad45b7ce1a962/ch%204.5/euleriantrails5182472584651975439.jpeg">
 
 - You can see if a graph is eulerian if you just follow the edges with your finger
 
@@ -12,3 +12,10 @@
 
 - aswell the converse is true if every vertice in a graph has an even degree it must be a euler circuit and if there are two vertexes with an odd degree you'll get a euler path.
 
+## Königsberg's bridge
+
+<img title="konsinbergs bridge" alt="konsinbergs brige" src="">
+
+- The book doesn't explain this at all but essentially its the the question if you have a moat many brodges how do you use all of the bridges exactly once, this is mant to question euler paths and circuits as whole.
+
+<img title="graph" alt="konsinbergs bridge graph" src="">
